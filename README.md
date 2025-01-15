@@ -53,16 +53,24 @@ Now that we know what type of virtual network we want to use it's time to create
 
 This will launch the new VM window. Go ahead and click the Expert Mode button. Don't worry - it doesn't make the process more difficult it only allows you to create a VM while navigating through less pages.
 
-I am going to specify a name of "MyVM" and 2048 MB (2gb) of RAM then I will click Create.
+I am going to specify a name of "MyVM" and 4096 MB (4gb) of RAM then I will click Create.
+
+<img src = "Folder/Naming VM.png">
+
+<img src = "Folder/Vm Memory.png">
 
 
 This will open another window for creating the Virtual Hard Disk. The default options here are all fine except for the File Size. I am going to set my new HDD to 80GB and then choose Create.
+
+<img src = "Folder/Vm hard disk.png">
 
 Since this HDD is going to be dynamically allocated (option on the middle-right of the screenshot below), the HDD file will only be as large as the amount of data stored on it - and a maximum of 80GB
 Now you will see MyVM listed on the VirtualBox dashboard. Before we start the VM we can modify the settings of the VM if we want. Generally you might want to assign more processors, change the networking adapters and mount an ISO.
 
 Increasing the processor CPUs can greatly improve the performance of your VM, so if at all possible increase the number of CPUs to 2.
 Pro tip: Storing the VM's hard disk file on an SSD will also significantly increase the VMs performance.
+
+<img src = "Folder/Vm increase processor.png">
 
 And that is all we need to do to create the VM. Of course we can't start the VM yet because we haven't downloaded or attached an operating system ISO... But we will cover that in the next section.
 
@@ -73,6 +81,7 @@ Keep in mind that you won't be able to access all of these network types if you 
  
 Here is an overview of the different network types you could create:
 
+<img src = "Folder/VM Network.png">
 
 NAT
 This network type allows your VMs to use the internet connectivity of the host computer. You will have no connectivity to other VMs or the host computer. Use this type if your lab will only have one VM.
