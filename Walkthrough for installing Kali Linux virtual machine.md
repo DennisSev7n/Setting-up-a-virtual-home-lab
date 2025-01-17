@@ -10,7 +10,7 @@ Click <a href="https://www.kali.org/get-kali/#kali-platforms">here</a>  to downl
 
 <img src = "Folder/kali 1.png">
 After that, select the 'Installer 64 ISO'. It should automatically begin to download.
-
+<img src = "Folder/kali download installer.png">
 
 <h2>Step Two: Create a new virtual machine</h2>
 On your Virtual Box, click on <b>'New</b>'.
