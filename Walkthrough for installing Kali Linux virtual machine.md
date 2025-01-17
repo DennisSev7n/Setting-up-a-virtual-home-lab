@@ -14,11 +14,13 @@ After that, select the 'Installer 64 ISO'. It should automatically begin to down
 
 <h2>Step Two: Create a new virtual machine</h2>
 On your Virtual Box, click on <b>'New</b>'.
+<img src = "Folder/VM New VM.png">
 
 Next, Name your virtual machine (e.g., "Kali Linux"), choose "Linux" as the Type, and select "Ubuntu (64-bit)" as the Version if using the 64-bit ISO.
-
+<img src = "Folder/Kali Linux Name.png">
 <h4>Memory Size</h4>
 Allocate a minimum of 4096 MB of memory for your virtual machine; however, 8192 MB (8 GB) or more is recommended for better performance. For the processor, assign at least 4 CPUs if available.
+<img src = "Folder/Kali Memory CPU.png">
 
 <h4>Virtual Hard Disk</h4>
 Allocate at least 20 GB of storage for Kali Linux, though you can choose a larger size if you have sufficient disk space.
