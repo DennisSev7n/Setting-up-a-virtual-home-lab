@@ -17,19 +17,28 @@ On your Virtual Box, click on <b>'New</b>'.
 <img src = "Folder/VM New VM.png">
 
 Next, Name your virtual machine (e.g., "Kali Linux"), choose "Linux" as the Type, and select "Ubuntu (64-bit)" as the Version if using the 64-bit ISO.
+
 <img src = "Folder/Kali Linux Name.png">
+
 <h4>Memory Size</h4>
 Allocate a minimum of 4096 MB of memory for your virtual machine; however, 8192 MB (8 GB) or more is recommended for better performance. For the processor, assign at least 4 CPUs if available.
-<img src = "Folder/Kali Memory CPU.png">
+
+<img src = "Folder/Kali Memory  CPU.png">
 
 <h4>Virtual Hard Disk</h4>
 Allocate at least 20 GB of storage for Kali Linux, though you can choose a larger size if you have sufficient disk space.
 
+<img src = "Folder/kali hard disk.png">
+
 <h4>VM Settings</h4>
 Choose your virtual machine and click "Settings". Navigate to the "Storage" section, then click the empty CD icon under "Controller: IDE". Next, select "Choose a disk file..." and locate the Kali Linux ISO file you previously downloaded. This process attaches the ISO to your virtual machine for installation.
 
+<img src = "Folder/Kali storage.png">
+
 <h4>VM Network Settings </h4>
 Make sure your network settings are properly configured. It is recommended to use the Bridged Adapter setting, which allows your virtual machine to function as a separate device on your physical network.
+
+<img src = "Folder/Kali Bridged Net.png">
 
 The VM will receive its own unique IP address either dynamically from the network’s DHCP server or through manual static configuration. This setup enables the virtual machine to interact seamlessly with other devices on your network, just like a physical computer. The Bridged Adapter option ensures better connectivity and access to network resources, making it ideal for scenarios that require full network integration for testing or communication purposes.
 
