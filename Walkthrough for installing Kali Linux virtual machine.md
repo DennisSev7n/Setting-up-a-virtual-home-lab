@@ -44,17 +44,24 @@ The VM will receive its own unique IP address either dynamically from the networ
 
 
 <h2>Step Three: Start up your new virtual machine</h2>
-Click <b>"Start"</b> to boot the VM. Once booted, log in using the default credentials:
+Click <b>"Start"</b> to boot the VM. 
+
+<img src = "Folder/Kali vm start.png">
+
+Once booted, log in using the default credentials:
 Username: kali
 Password: kali
+
+<img src = "Folder/Kali login.png">
 
 <h2>Step Four: Updating your Kali OS</h2>
 Launch a terminal and execute the command:
 sudo apt update
 
+<img src = "Folder/Kali update 2.png">
+
 This ensures your system's package list is updated with the latest repositories.
 
------
 Once the update is complete, run the command:
 sudo apt upgrade -y
 
