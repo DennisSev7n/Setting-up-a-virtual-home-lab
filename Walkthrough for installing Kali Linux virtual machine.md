@@ -6,10 +6,13 @@ In this guide, I’ll walk you through downloading and installation of Kali Linu
 <h4> Note: </h4> I assume that you already have Oracle Virtual Box downloaded and all set up on your PC
 
 <h2>Step One: Download Kali-Linux ISO </h2>
+
 Click <a href="https://www.kali.org/get-kali/#kali-platforms">here</a>  to download the Kali-Linux ISO. Click on the Installer Images as shown in the image below.
 
 <img src = "Folder/kali 1.png">
+
 After that, select the 'Installer 64 ISO'. It should automatically begin to download.
+
 <img src = "Folder/kali download installer.png">
 
 <h2>Step Two: Create a new virtual machine</h2>
@@ -64,6 +67,9 @@ This ensures your system's package list is updated with the latest repositories.
 
 Once the update is complete, run the command:
 sudo apt upgrade -y
+<img src = "Folder/kali update 3.png">
 
 This upgrades your Linux system to the latest available packages and enhancements.
--
+
+<h3>Conclusion</h3>
+You should have a fully functional Kali-Linux VM after follwing all these steps
