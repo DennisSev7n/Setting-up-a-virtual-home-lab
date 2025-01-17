@@ -133,16 +133,16 @@ Next we need an operating system (OS) to install on our Virtual Machines. You co
  
 The easiest way to find what you're looking for is to simply google the name of your operating system with "ISO download" in the search.  For example if you want Windows Server 2016, just search 
 
-"Windows Server 2016 ISO Download".
+<a href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016">"Windows Server 2016 ISO Download"</a>.
 You should ONLY download ISOs from official websites. This means you shouldn't download Windows Server from a website like "sneakyfreecdkeys.com"...
 
 I will still provide links to the most common operating systems that people want to install below. Keep in mind if the link is dead you can just run a quick google search and easily find the download.
 <ul>
 <li> Windows Server 2016</li>
-Windows 10 (requires a valid Windows 10 license to download)
-Centos 7
-Ubuntu
-Kali Linux
+<li>Windows 10 (requires a valid Windows 10 license to download)</li>
+<li>Centos 7</li>
+<li>Ubuntu</li>
+<li>Kali Linux</li>
 </ul>
 
 <h3>Installing an OS on Your Lab VMs</h3>
