@@ -7,6 +7,8 @@ In this guide, I’ll walk you through downloading and installation of Kali Linu
 
 <h2>Step One: Download Kali-Linux ISO </h2>
 Click <a href="https://www.kali.org/get-kali/#kali-platforms">here</a>  to download the Kali-Linux ISO. Click on the Installer Images as shown in the image below.
+
+<img src = "Folder/kali 1.png">
 After that, select the 'Installer 64 ISO'. It should automatically begin to download.
 
 
