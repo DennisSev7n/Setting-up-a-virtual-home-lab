@@ -17,17 +17,18 @@ Next, Name your virtual machine (e.g., "Windows XP"), on ISO image, choose the I
 
 <img src = "Folder/xp naming.png">
 
-<img src = "folder/select iso for xp.png">
+<img src = "Folder/select iso for xp.png">
 
 After that click on finish. Everything else is set for you.
 
 <h2>Step 3:  Start up your new virtual machine</h2>
 Click <b>"Start"</b> to boot your Windows XP VM.
 
-<img src = "Folder/start xp">
+<img src = "Folder/start xp.png">
 
-Once booted, allow the windows to install. this could take a while. If you are asked for a product key, use this  <b> " GG7JB-P3V6P-M2GYV-4FW8X-Y3RFY"</b>
-<img src = "Folser/xp install.png">
+Once booted, allow the windows to install. this could take a while. If you are asked for a product key, use this  <b> "GG7JB-P3V6P-M2GYV-4FW8X-Y3RFY"</b>
+
+<img src = "Folder/xp install.png">
 
 After that, your Windows XP VM should be fully functional.
 
