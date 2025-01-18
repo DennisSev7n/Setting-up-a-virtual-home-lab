@@ -6,3 +6,25 @@ In this guide, I’ll walk you through downloading and installation of Windows X
 I assume that you already have Oracle Virtual Box downloaded and all set up on your PC
 
 <h2>Step One: Download Windows XP ISO</h2>
+Click <a href="https://isoriver.com/windows-xp-iso-download/">here</a> to download theWindows XP ISO. Click on Download (64 or 32 bits. Depening on your PC) as shown in the image below.
+
+<h2>Step Two: Create a new Virtual Machine</h2>
+On your Virtual Box, click on 'New'.
+<img src = "Folder/VM New VM.png">
+
+Next, Name your virtual machine (e.g., "Windows XP"), on ISO image, choose the ISO you downloaded for Windows XP.
+
+<img src = "">
+
+After that click on finish. Everything else is set for you.
+
+<h2>Step 3:  Start up your new virtual machine</h2>
+Click <b>"Start"</b> to boot your Windows XP VM.
+
+<img src = "">
+
+Once booted, allow the windows to install. this could take a while. If you are asked for a product key, use this  <b> " GG7JB-P3V6P-M2GYV-4FW8X-Y3RFY"</b>
+
+After that, your Windows XP VM should be fully functional.
+
+<img src = "">
